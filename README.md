@@ -1,2 +1,0 @@
-# k-hopital
-hich nya
